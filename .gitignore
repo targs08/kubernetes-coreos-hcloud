@@ -1,0 +1,5 @@
+kubespray-inventory
+.terraform
+*.tfstate
+*.tfstate.lock.info
+*.tfstate.backup
